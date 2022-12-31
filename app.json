@@ -1,0 +1,8 @@
+{
+  "name": "SignalTicker",
+  "displayName": "SignalTicker",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1525152987133318~5088851201",
+    "ios_app_id": "ca-app-pub-1525152987133318~5744862290"
+  }
+}
